@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-imagesIco-fonts/static/css/main.95d210c5.chunk.css",
+    "main.js": "/test-imagesIco-fonts/static/js/main.a9468647.chunk.js",
+    "main.js.map": "/test-imagesIco-fonts/static/js/main.a9468647.chunk.js.map",
+    "runtime-main.js": "/test-imagesIco-fonts/static/js/runtime-main.b839a912.js",
+    "runtime-main.js.map": "/test-imagesIco-fonts/static/js/runtime-main.b839a912.js.map",
+    "static/js/2.c927914c.chunk.js": "/test-imagesIco-fonts/static/js/2.c927914c.chunk.js",
+    "static/js/2.c927914c.chunk.js.map": "/test-imagesIco-fonts/static/js/2.c927914c.chunk.js.map",
+    "static/js/3.1c47efa5.chunk.js": "/test-imagesIco-fonts/static/js/3.1c47efa5.chunk.js",
+    "static/js/3.1c47efa5.chunk.js.map": "/test-imagesIco-fonts/static/js/3.1c47efa5.chunk.js.map",
+    "index.html": "/test-imagesIco-fonts/index.html",
+    "static/css/main.95d210c5.chunk.css.map": "/test-imagesIco-fonts/static/css/main.95d210c5.chunk.css.map",
+    "static/js/2.c927914c.chunk.js.LICENSE.txt": "/test-imagesIco-fonts/static/js/2.c927914c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-imagesIco-fonts/static/media/Silka Medium.55bc344c.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b839a912.js",
+    "static/js/2.c927914c.chunk.js",
+    "static/css/main.95d210c5.chunk.css",
+    "static/js/main.a9468647.chunk.js"
+  ]
+}
